@@ -38,7 +38,7 @@ These Docker images are also available from the Github packages at
 
 1. Install Docker
 
-2. From a git checkout of Pyodide, run `./run_docker`
+2. From a git checkout of Pyodide, run `./run_docker --root`
 
 3. Run `make` to build.
 
